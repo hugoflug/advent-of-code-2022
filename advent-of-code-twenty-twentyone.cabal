@@ -12,6 +12,8 @@ library
   exposed-modules:
       AOC1_1
       AOC1_2
+      AOC2_1
+      AOC2_2
   other-modules:
       Paths_advent_of_code_twenty_twentyone
   hs-source-dirs:
