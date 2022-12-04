@@ -16,6 +16,8 @@ library
       AOC2_2
       AOC3_1
       AOC3_2
+      AOC4_1
+      AOC4_2
   other-modules:
       Paths_advent_of_code_twenty_twentyone
   hs-source-dirs:
